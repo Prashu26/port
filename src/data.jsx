@@ -52,7 +52,7 @@ export const projects = [
   {
     id: nanoid(),
     img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-   github: "https://github.com/Prashu26",
+   github: "https://github.com/Prashu26/hack1",
     title: "Fitness website",
     text: "Built a fitness website that allows users to track their progress and select exercises they want to perform. The platform includes a community page where users can join specific groups and ask questions anonymously. Additionally, it features an admin dashboard to manage communities and oversee other platform activities.",
   },
