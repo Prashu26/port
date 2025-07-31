@@ -38,9 +38,9 @@ export const projects = [
   {
     id: nanoid(),
     img: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800",
-   github: "https://github.com/Prashu26",
-    title: "Movie Review website",
-    text: "I built a movie review website using React and Spring Boot. Through this website, you can watch trailers of upcoming movies and write reviews for movies you have already seen.",
+   github: "https://github.com/Prashu26/flutter",
+   title: "Saloon Website",
+    text: "I am building a saloon app that enables users to book appointments and access the saloon website. It also includes an admin dashboard for managing customers and staff.",
   },
   {
     id: nanoid(),
